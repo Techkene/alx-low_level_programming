@@ -1,0 +1,10 @@
+
+n-declaration]                                                                                                        
+
+   12 |   _putchar('\n');                                                                                                 
+
+      |   ^~~~~~~~                                                                                                        
+
+      |   putchar                                                                                                         
+
+cc1: all warnings being treated as errors
