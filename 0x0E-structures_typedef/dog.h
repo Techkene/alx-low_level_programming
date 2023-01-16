@@ -1,8 +1,6 @@
 #ifndef DOG_H
 #define DOG_H
 
-#include <stdio>
-#include <stdlib>
 /**
   * struct dog - A new type of data data
   * @name: name of dog
