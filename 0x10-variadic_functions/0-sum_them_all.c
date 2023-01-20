@@ -20,7 +20,6 @@ va_start(num, n);
 
 for (index = 0; index < n; index++)
 sum += va_arg(li, int);
-}
 
 va_end(num);
 return (sum);
